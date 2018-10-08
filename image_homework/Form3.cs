@@ -11,6 +11,12 @@ using System.Windows.Forms;
 
 namespace image_homework
 {
+    public class ExtractChannel : BaseFilter
+    {
+        public ExtractChannel()
+        {
+        }
+    }
     public partial class Form3 : Form
     {
         Bitmap kaynak, sonuc;
@@ -107,14 +113,14 @@ namespace image_homework
             int gen = kaynak.Width;
             int yuk = kaynak.Height;
             sonuc = new Bitmap(gen, yuk);
-
+            
             for (int y = 0; y < yuk; y++)
             {
                 for (int x = 0; x < gen; x++)
                 {
                     Color renklirenk = kaynak.GetPixel(x, y);
-                    
-                    Color siralirenk = Color.FromArgb(0,renklirenk.G,renklirenk.B);
+
+                    Color siralirenk = Color.FromArgb(renklirenk.R, renklirenk.R, renklirenk.R);
                     sonuc.SetPixel(x, y, siralirenk);
 
                 }
@@ -135,7 +141,7 @@ namespace image_homework
                 {
                     Color renklirenk = kaynak.GetPixel(x, y);
 
-                    Color siralirenk = Color.FromArgb(renklirenk.R, renklirenk.G, 0);
+                    Color siralirenk = Color.FromArgb(renklirenk.B, renklirenk.B, renklirenk.B);
                     sonuc.SetPixel(x, y, siralirenk);
 
                 }
@@ -156,7 +162,7 @@ namespace image_homework
                 {
                     Color renklirenk = kaynak.GetPixel(x, y);
 
-                    Color siralirenk = Color.FromArgb(renklirenk.R, 0, renklirenk.B);
+                    Color siralirenk = Color.FromArgb(renklirenk.G, renklirenk.G, renklirenk.G);
                     sonuc.SetPixel(x, y, siralirenk);
 
                 }

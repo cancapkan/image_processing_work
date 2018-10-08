@@ -11,3 +11,17 @@ C:\Users\Can ÇAPKAN\Desktop\7.Sömester\calısma\image_homework\image_homework\
 C:\Users\Can ÇAPKAN\Desktop\7.Sömester\calısma\image_homework\image_homework\obj\Debug\image_homework.Form2.resources
 C:\Users\Can ÇAPKAN\Desktop\7.Sömester\calısma\image_homework\image_homework\obj\Debug\image_homework.Form3.resources
 C:\Users\Can ÇAPKAN\Desktop\7.Sömester\calısma\image_homework\image_homework\obj\Debug\image_homework.Form4.resources
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\calısma\image_homework\image_homework\obj\Debug\image_homework.ExtractChannel.resources
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\bin\Debug\image_homework.exe.config
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\bin\Debug\image_homework.exe
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\bin\Debug\image_homework.pdb
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.csprojAssemblyReference.cache
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.Form1.resources
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.Form2.resources
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.ExtractChannel.resources
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.Form4.resources
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.Properties.Resources.resources
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.csproj.GenerateResource.cache
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.csproj.CoreCompileInputs.cache
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.exe
+C:\Users\Can ÇAPKAN\Desktop\7.Sömester\image processing\calısma\image_homework\image_homework\obj\Debug\image_homework.pdb
